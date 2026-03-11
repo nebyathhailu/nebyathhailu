@@ -1,12 +1,5 @@
-- 👋 Hi, I’m Nebyat Hailu.
-- 👀 I am enthusiastic about exploring the world of technology and software development, eager to learn and contribute to exciting projects.
-- 🌱 I’m graduate of AkiraChix codeHive program.
-- 💞️ I’m looking to collaborate on creative solutions that address real-world challenges through technology.
-- 📫 How to reach me --> nebyathhailu@gmail.com
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: ...
 # 💫 About Me:
-👋 Hi, I’m Nebyat Hailu.<br>👀 I am enthusiastic about exploring the world of technology and software development, eager to learn and contribute to exciting projects.<br>🌱 I’m graduate of AkiraChix codeHive program.<br>💞️ I’m looking to collaborate on creative solutions that address real-world challenges through technology.
+👋 Hi, I’m Nebyat.<br>👀 I am enthusiastic about exploring the world of technology and software development, eager to learn and contribute to exciting projects.<br>🌱 I’m graduate of AkiraChix codeHive program.<br>💞️ I’m looking to collaborate on creative solutions that address real-world challenges through technology.
 
 
 ## 🌐 Socials:
